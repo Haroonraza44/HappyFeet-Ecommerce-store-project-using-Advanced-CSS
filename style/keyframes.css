@@ -35,7 +35,7 @@
     29.99% {
         background-image: linear-gradient(to right bottom, rgba(7, 58, 76, .7), rgba(6, 214, 160, 0.5)), url(../images/bg/bgs\ \(8\).jpg);
         background-position-y: bottom;
-        background-position-x: right ;
+        background-position-x: left ;
     }
 
     30% {
@@ -82,12 +82,13 @@
     
     70% {
         background-image: linear-gradient(to right bottom, rgba(7, 58, 76, .7), rgba(6, 214, 160, 0.5)), url(../images/bg/bgs\ \(10\).jpg);
-        background-position-y: center;
+        background-position-y: bottom;
         background-position-x: center ;
     }
     79.99% {
         background-image: linear-gradient(to right bottom, rgba(7, 58, 76, .7), rgba(6, 214, 160, 0.5)), url(../images/bg/bgs\ \(10\).jpg);
-        background-position-y: bottom;
+        background-position-y: center;
+        background-position-x: left ;
     }
     
     80% {
